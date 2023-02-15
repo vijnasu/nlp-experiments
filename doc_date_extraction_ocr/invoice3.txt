@@ -1,0 +1,67 @@
+Proforma Invoice No. P1
+
+Printed at: 15-04-2021
+
+YOUR
+
+Due dat
+
+9-04-2021
+
+LOGO
+
+Payment type: BACS.
+
+HERE
+
+Invoice From
+
+Invoice to
+
+London Interior LTD
+
+‘Anthony Brown
+
+23 Oxtord
+
+Oxford Street 2
+
+London
+
+London
+
+wt
+
+wi
+
+VAT Reg No GB 695 7846 00
+
+United Kingdom
+
+No. |Description
+
+ay
+
+Unit price
+
+Total
+
+1
+
+Interior design consuttation
+
+1,000.00
+
+1,000.00
+
+Total
+
+1,000.00
+
+Total
+
+1,000.00
+
+‘Amount due
+
+1,000.00
